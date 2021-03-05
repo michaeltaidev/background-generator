@@ -5,3 +5,5 @@ var color2 = document.querySelector(".color2");
 color1.addEventListener("input", function outputColorText() {
 	console.log(color1.value);
 })
+
+// Git test
